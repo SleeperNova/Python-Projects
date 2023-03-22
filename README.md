@@ -1,7 +1,10 @@
 # Python-Projects
 
-### Python Login System (login.py)
+<details>
+
+<summary>Login System</summary>
 This is a simple login system with the following criteria:
+
 - Currently able to login as admin and Testeng
 - If either unername or password is entered incorrectly, a warning will show pop up.
 - if login as Testeng, a new window will pop as a 'welcome'
@@ -9,5 +12,11 @@ This is a simple login system with the following criteria:
 ### Purpose
 This simple appliation was built to get a better understanding of the python tkinter library and making GUI's.
 
-### Here are snapshots of the logins:
+### Here are snapshots of the logging in as Testeng:
 
+- <img src="/LoginSystem/Login_1.PNG">
+- <img src="/LoginSystem/Login_2.PNG">
+- <img src="/LoginSystem/Login_3.PNG">
+- <img src="/LoginSystem/Login_4.PNG">
+
+</details>
