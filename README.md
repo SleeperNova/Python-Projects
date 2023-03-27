@@ -1,5 +1,6 @@
 # Python-Projects
 
+### Programs
 <details>
 <summary>Login System</summary>
 This is a simple login system with the following criteria:
@@ -40,3 +41,5 @@ This simple appliation was built to get a better understanding of the python tki
 - <img src="/UserInput/User_1.PNG">
 - <img src="/UserInput/User_2.PNG">
 </details>
+
+### Scripts
