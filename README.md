@@ -25,7 +25,7 @@ This simple appliation was built to get a better understanding of the python tki
 <summary>User Input</summary>
 This is a simple user input GUI system with the following criteria:
 
-- User able fill in the following:
+- User is able to fill in the following:
   - How are you feeling?
   - What day of the week is it?
   - Enter any notes
@@ -42,4 +42,22 @@ This simple appliation was built to get a better understanding of the python tki
 - <img src="/UserInput/User_2.PNG">
 </details>
 
-### Scripts
+### Automation Scripts
+<details>
+<summary>MultiClipboard</summary>
+This is a simple automation program where the user inputs coomands via terminal with the following criteria:
+
+- User uses one of the following commands in the terminal:
+  - save
+  - load
+  - list
+
+See image below on how the terminal is used to use the commands.
+
+### Purpose
+This simple automation script allows the user to load and save multipe txt items into a dictionary with an associated 'key'. When the user wants to load a particular saved txt, the 'key' will need to be entered and the clipboard will be loaded with that txt.
+
+### Here are snapshots of the GUI:
+
+- <img src="/MultiClipboard/Clipboard_1.PNG">
+</details>
